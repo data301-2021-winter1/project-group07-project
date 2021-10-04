@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+{When our team first saw the dataset, each of us asked himself a question: 1) Is there a correlation between the category of a startup, its success, and the most popular industry of a country? 2) What goal and project duration setting are most likely to fail on kickstarters? Although the research questions differ, they are both very interesting and astonishing to find answers to. Our team is interested in the dataset, because both of us strive for learning more about start-ups and self-proprietorship. We want to understand how kickstartes work, what kind of service they provide, and what the outcome for young entrepreneurs is. With the dataset that we chose, it will be interesting to analyze how various types of start-up industries correlate with the level of success of a start-up. We could imagine building a user-facing Dashboard with our dataset in order to provide fast, informative, and real-time summary of the dataset contents.}
 
 ## Describe your dataset in about 150-200 words
 
@@ -18,9 +18,9 @@ Kickstarter is a platform that promotes crowdfunding projects for creative idea.
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Person 1: I am a third year management student in UBCO, minoring in economics.
 - Person 2: Zunyi Lin, I graduate from University of Saskatchewan in 2012, now I am pursuig my second degree.
-- Person 3: one sentence about you!
+
 
 ## Images
 
