@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=464456&assignment_repo_type=GroupAssignmentRepo)
-# Group YYY - {Short snappy Title of your project}
+# Group Kicks - {Short snappy Title of your project}
 
-- Your title can change over time.
+- Analysis of Kickstarter Data
 
 ## Milestones
 
@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Person 1: one sentence about you!
-- Person 2: Zunyi Lin
+- Person 2: Zunyi Lin, I graduate from University of Saskatchewan in 2012, now I am pursuig my second degree.
 - Person 3: one sentence about you!
 
 ## Images
