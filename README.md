@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=464456&assignment_repo_type=GroupAssignmentRepo)
-# Group Kicks - {Short snappy Title of your project}
+# Group 07 - Kicks
 
-- Analysis of Kickstarter Data
+- Analysis of Kickstarter Projects Data
 
 ## Milestones
 
@@ -13,7 +13,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+This project focus on Kickstarter projects dataset collected between 2009 and 2018 on kaggle.com, the link to this dataset is: https://www.kaggle.com/kemical/kickstarter-projects. The data is licensed under CC BY-NC-SA 4.0 license. There is total 378661 rows and 15 columns of data. The data includes important information like project name, category, launch date, deadline, goal, and pledged amount for each project. with all these information we could even try to predict if the project is going to fail before it  even started.
 
 ## Team Members
 
