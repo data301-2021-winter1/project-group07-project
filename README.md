@@ -21,16 +21,10 @@ Kickstarter is a platform that promotes crowdfunding projects for creative idea.
 - Person 1: I am a third year management student in UBCO, minoring in economics.
 - Person 2: Zunyi Lin, I graduate from University of Saskatchewan in 2012, now I am pursuig my second degree.
 
-
 ## Images
 
-{You can use this area for any images you want to include}
-
-<img src ="images/test.png" width="100px">
+<img src ="images/datasetscreenshot.jpg" width="800px">
 
 ## References
 
-{Add your stuff here}
-
-
-
+Dataset URL: https://www.kaggle.com/kemical/kickstarter-projects
