@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Person 1: I am a third year management student in UBCO, minoring in economics.
-- Person 2: one sentence about you!
+- Person 2: Zunyi Lin
 
 ## Images
 
