@@ -13,7 +13,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-This project focus on Kickstarter projects dataset collected between 2009 and 2018 on kaggle.com, the link to this dataset is: https://www.kaggle.com/kemical/kickstarter-projects. The data is licensed under CC BY-NC-SA 4.0 license. There is total 378661 rows and 15 columns of data. The data includes important information like project name, category, launch date, deadline, goal, and pledged amount for each project. with all these information we could even try to predict if the project is going to fail before it  even started.
+Kickstarter is a platform that promotes crowdfunding projects for creative idea. Project creator brings out a feasible idea, then sets project deadline and funding goals. If people like the idea, they can pledge money to help bring the project to life. They will also usually get something in return. This dataset is collected on Kickstarter.com between 2009 and 2018. The link to this dataset is: https://www.kaggle.com/kemical/kickstarter-projects. The data is licensed under CC BY-NC-SA 4.0 license. There are total 378661 rows and 15 columns of data. The data includes important information such as project name, country, category, sub-category, launch date, deadline, goal, and pledged amount for each project. Since different country project uses different currency for goal and amount pledged, the data convert them to USD for the purpose of comparison. The dataset would be great for several purposes: entrepreneurs can analyze the dataset and understand whether they have potential in their project. Also, the dataset is great for public interest in a way that people can learn the criteria of the study and may become interested in a topic of crowdfunding.
+
 
 ## Team Members
 
