@@ -12,6 +12,7 @@ def load_and_process(csv_file):
     
     df = pd.read_csv(csv_file)
     df
+    #clean data
     df1 = (df.drop(columns = ['ID', 'usd pledged', 'currency', 'goal', 'pledged', 'country'], inplace = False)
            .dropna()
            .rename(columns={"usd_pledged_real": "pledged", "usd_goal_real": "goal", "state": "status"}))
