@@ -348,7 +348,7 @@
       </datasource-dependencies>
       <filter class='quantitative' column='[federated.164bueg1trkmrl117f1a800g7sf4].[none:launched:qk]' included-values='in-range'>
         <min>#2009-04-21 21:02:48#</min>
-        <max>#2019-01-24 23:59:59#</max>
+        <max>#2017-12-29 03:22:32#</max>
       </filter>
       <filter class='categorical' column='[federated.164bueg1trkmrl117f1a800g7sf4].[none:main_category:nk]'>
         <groupfilter function='level-members' level='[none:main_category:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -638,76 +638,74 @@
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
           <zone h='97712' id='40' param='horz' type-v2='layout-flow' w='98698' x='651' y='1144'>
-            <zone h='97712' id='37' param='horz' type-v2='layout-flow' w='98698' x='651' y='1144'>
-              <zone h='97712' id='35' type-v2='layout-basic' w='98698' x='651' y='1144'>
-                <zone h='48857' id='7' param='horz' type-v2='layout-flow' w='49351' x='49998' y='49999'>
-                  <zone h='48857' id='5' type-v2='layout-basic' w='49351' x='49998' y='49999'>
-                    <zone h='48857' id='3' name='Pledge vs Goal Ratio Sub' w='49351' x='49998' y='49999'>
-                      <zone-style>
-                        <format attr='border-color' value='#000000' />
-                        <format attr='border-style' value='none' />
-                        <format attr='border-width' value='0' />
-                        <format attr='margin' value='4' />
-                      </zone-style>
-                    </zone>
+            <zone h='97712' id='35' type-v2='layout-basic' w='98698' x='651' y='1144'>
+              <zone h='48857' id='7' param='horz' type-v2='layout-flow' w='49351' x='49998' y='49999'>
+                <zone h='48857' id='5' type-v2='layout-basic' w='49351' x='49998' y='49999'>
+                  <zone h='48857' id='3' name='Pledge vs Goal Ratio Sub' w='49351' x='49998' y='49999'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
                   </zone>
                 </zone>
-                <zone h='48855' id='9' name='Status by Goal' w='41657' x='651' y='1144'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='48855' id='11' name='Status by Duration' w='43371' x='55978' y='1144'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='11014' id='10' name='Status by Goal' pane-specification-id='2' param='[federated.164bueg1trkmrl117f1a800g7sf4].[none:status:nk]' type-v2='color' w='13670' x='42308' y='1144'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='13555' id='8' name='Pledge vs Goal Ratio Sub' pane-specification-id='1' param='[federated.164bueg1trkmrl117f1a800g7sf4].[:Measure Names]' type-v2='color' w='13670' x='42308' y='12158'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='48857' id='24' name='Pledge vs Goal Ratio Main' w='49347' x='651' y='49999'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='10731' id='38' mode='checkdropdown' name='Status by Goal' param='[federated.164bueg1trkmrl117f1a800g7sf4].[none:main_category:nk]' type-v2='filter' values='database' w='13670' x='42308' y='39268'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='13555' id='41' name='Status by Goal' param='[federated.164bueg1trkmrl117f1a800g7sf4].[none:launched:qk]' show-null-ctrls='false' show-reldate-picker='false' type-v2='filter' values='database' w='13670' x='42308' y='25713'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
+              </zone>
+              <zone h='48855' id='9' name='Status by Goal' w='41657' x='651' y='1144'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='48855' id='11' name='Status by Duration' w='43371' x='55978' y='1144'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='11014' id='10' name='Status by Goal' pane-specification-id='2' param='[federated.164bueg1trkmrl117f1a800g7sf4].[none:status:nk]' type-v2='color' w='13670' x='42308' y='1144'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='13555' id='8' name='Pledge vs Goal Ratio Sub' pane-specification-id='1' param='[federated.164bueg1trkmrl117f1a800g7sf4].[:Measure Names]' type-v2='color' w='13670' x='42308' y='12158'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='48857' id='24' name='Pledge vs Goal Ratio Main' w='49347' x='651' y='49999'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='10731' id='38' mode='checkdropdown' name='Status by Goal' param='[federated.164bueg1trkmrl117f1a800g7sf4].[none:main_category:nk]' type-v2='filter' values='database' w='13670' x='42308' y='39268'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='13555' id='41' name='Status by Goal' param='[federated.164bueg1trkmrl117f1a800g7sf4].[none:launched:qk]' show-null-ctrls='false' show-reldate-picker='false' type-v2='filter' values='database' w='13670' x='42308' y='25713'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
               </zone>
             </zone>
           </zone>
@@ -723,8 +721,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1450' minheight='1450' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='51' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97712' id='50' param='vert' type-v2='layout-flow' w='98698' x='651' y='1144'>
+            <zone h='100000' id='53' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97712' id='52' param='vert' type-v2='layout-flow' w='98698' x='651' y='1144'>
                 <zone h='10731' id='38' mode='checkdropdown' name='Status by Goal' param='[federated.164bueg1trkmrl117f1a800g7sf4].[none:main_category:nk]' type-v2='filter' values='database' w='13670' x='42308' y='39268'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -986,7 +984,7 @@
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='11' />
+      <active id='41' />
       <simple-id uuid='{8BA8504B-E39E-411D-8C7C-74FE66DD925E}' />
     </window>
   </windows>
